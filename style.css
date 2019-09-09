@@ -1,0 +1,11 @@
+.visual > div {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  bottom: 0%;
+  border-style: dotted;
+  border-color: white;
+  border-width: 3px;
+  z-index: -1;
+}
